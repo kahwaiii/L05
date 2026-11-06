@@ -28,7 +28,8 @@ const MyApp = () => {
     return (
         <View>
             <Text></Text>
-
+            <Text></Text>
+            <Text></Text>
             {/* Ex1G: Create a TextInput labelled as "User Name". */}
             {/*<Text>User Name:</Text>*/}
             {/*<TextInput style={{borderWidth: 1}}*/}
